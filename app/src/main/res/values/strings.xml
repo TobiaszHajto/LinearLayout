@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">loginAppAS</string>
     <string name="header">Rejestruj konto</string>
+    <string name="etykieta1">Podaj e-mail:</string>
 </resources>
